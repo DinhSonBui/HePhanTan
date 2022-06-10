@@ -1,4 +1,4 @@
-# HePhanTan
+# HePhanTan 😁😁😁
 
 Bài tập 0: Xây dựng 1 máy chủ chạy HĐH windows server hoặc Linux, 1 máy client chạy HĐH Windows 7. Gán IP tĩnh cho máy Server. Cài đặt DHCP trên Server để server này cấp IP động cho client. 
 
