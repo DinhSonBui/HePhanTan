@@ -18,4 +18,3 @@ Bài tập 6 :  Xây dựng chương trình giải phương trình bậc 2 dang 
  + Server trả về kết quả và hiển thị trên máy client
  
 Bài tập 7 : Thiết đặt thời gian máy A và B là khác nhau. Xây dựng chương trình truyền tin giữa máy A và B, trong đó máy A đóng vai trò server, B đóng vai trò client. Chương trình truyền tin này sử dụng giải thuật Cristian để máy B có thể đồng bộ được thời gian của mình so với máy A
-
